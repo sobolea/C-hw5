@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\task36.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\task36.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\task36.AssemblyInfo.cs
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\task36.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\bin\Debug\net6.0\task36.exe
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\bin\Debug\net6.0\task36.deps.json
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\bin\Debug\net6.0\task36.runtimeconfig.json
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\bin\Debug\net6.0\task36.dll
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\bin\Debug\net6.0\task36.pdb
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\task36.dll
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\refint\task36.dll
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\task36.pdb
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\task36.genruntimeconfig.cache
+C:\Users\Анна\Desktop\gb\c#\les5 hw\task36\obj\Debug\net6.0\ref\task36.dll
